@@ -1,0 +1,130 @@
+{
+    "raw_text": "GAYATHRI JAYAN\nKochi, Kerala , India | gayathrijayan62@gmail.com | 9946238090 | Github | Linkedin\nCareer Objective\u00a0\nMotivated Computer Science Engineering student at SCMS School of Engineering and Technology, Kochi, with strong fundamentals in Java, Python, C, SQL and Linux basics. Hands-on experience in web development, AI-based systems, and backend logic through internships and academic projects. Seeking an entry-level role at Aurus Tech Pvt Ltd, where I can contribute to real-world projects, strengthen my technical expertise, and grow within a professional software environment.\nEducation\nSCMS School of Engineering and Technology, Ernakulam.\nBtech Computer Science Engineering.\n8.57 CGPA till semester 6.\nFACT Udyogamandal School, Ernakulam.\nPlus two .\n91%.\nTechnical Skills                      \t\t\t\t Soft Skills\nPython, Java, C                             \t\t \t\u2022 Teamwork & Collaboration\nSQL                            \t\t\t\t\t\u2022 Critical Thinking\nGit, GitHub, FAISS                          \t\t\t\u2022 Empathy & Active Listening\nHTML, CSS, JavaScript, Bootstrap                \t\t\u2022 Quick Learning & Adaptability\nExperience\nInternship\nIntern \u2013 Machine Learning & Artificial Intelligence, ICT Academy of Kerala  \nOct 14, 2024 \u2013 Nov 18, 2024  \nBuilt ML models using supervised learning and worked on data preprocessing, model training, and evaluation.\nEngineered components of an AI/ML pipeline, gaining exposure to chatbot and generative AI solutions.\nIntern \u2013 Web Development, Hostcurator IT Solutions Pvt. Ltd., Kochi  \nJune 5, 2025 \u2013 June 21, 2025\nDesigned and developed responsive websites using HTML, CSS, and JavaScript.\nImplemented client requirements into functional UI features ensuring clean and maintainable code.  \nProjects \nCyberTrace \u2013 Explainable RAG-Based Chatbot for Cyber Threat Intelligence\nDeveloped an AI-powered chatbot using Retrieval-Augmented Generation (RAG) and FAISS for efficient information retrieval. Built a modular Python backend and Streamlit interface for cybersecurity insights with SHAP-based explainability.\nEchoHands \u2013 Sign Language to Text Conversion System  \nDeveloped and deployed a computer vision-based system to translate sign language gestures into text. Integrated real-time hand detection using OpenCV and MediaPipe to enhance accessibility for the deaf and hard-of-hearing community.   \n Certifications \nInfosys springboard Internet Of Thing 101 Certification\nIBM SkillsBuild Data Analytics: Training Data into Decisions using Python\nCybersecurity Virtual Experience \u2013 Deloitte Australia (Forage)\nExtracurricular\nVolunteered as host for the Computer Science Department Association Day program.\nParticipated in TinkerHack \u2013 a women-only hackathon hosted by TinkerHub.\nParticipated in Useless Projects - Makeathon by TinkerHub",
+    "cleaned_text": "gayathri jayan\nkochi kerala india gayathrijayan62@gmail.com 9946238090 github linkedin\ncareer objective\u00a0\nmotivated computer science engineering student at scms school of engineering and technology kochi with strong fundamentals in java python c sql and linux basics. hands-on experience in web development ai-based systems and backend logic through internships and academic projects. seeking an entry-level role at aurus tech pvt ltd where i can contribute to real-world projects strengthen my technical expertise and grow within a professional software environment.\neducation\nscms school of engineering and technology ernakulam.\nbtech computer science engineering.\n8.57 cgpa till semester 6.\nfact udyogamandal school ernakulam.\nplus two .\n91 .\ntechnical skills soft skills\npython java c teamwork collaboration\nsql critical thinking\ngit github faiss empathy active listening\nhtml css javascript bootstrap quick learning adaptability\nexperience\ninternship\nintern machine learning artificial intelligence ict academy of kerala \noct 14 2024 nov 18 2024 \nbuilt ml models using supervised learning and worked on data preprocessing model training and evaluation.\nengineered components of an ai ml pipeline gaining exposure to chatbot and generative ai solutions.\nintern web development hostcurator it solutions pvt. ltd. kochi \njune 5 2025 june 21 2025\ndesigned and developed responsive websites using html css and javascript.\nimplemented client requirements into functional ui features ensuring clean and maintainable code. \nprojects \ncybertrace explainable rag-based chatbot for cyber threat intelligence\ndeveloped an ai-powered chatbot using retrieval-augmented generation rag and faiss for efficient information retrieval. built a modular python backend and streamlit interface for cybersecurity insights with shap-based explainability.\nechohands sign language to text conversion system \ndeveloped and deployed a computer vision-based system to translate sign language gestures into text. integrated real-time hand detection using opencv and mediapipe to enhance accessibility for the deaf and hard-of-hearing community. \n certifications \ninfosys springboard internet of thing 101 certification\nibm skillsbuild data analytics training data into decisions using python\ncybersecurity virtual experience deloitte australia forage \nextracurricular\nvolunteered as host for the computer science department association day program.\nparticipated in tinkerhack a women-only hackathon hosted by tinkerhub.\nparticipated in useless projects - makeathon by tinkerhub",
+    "sections": {
+        "other": [
+            "gayathri jayan",
+            "kochi kerala india gayathrijayan62@gmail.com 9946238090 github linkedin",
+            "career objective",
+            "motivated computer science engineering student at scms school of engineering and technology kochi with strong fundamentals in java python c sql and linux basics. hands-on experience in web development ai-based systems and backend logic through internships and academic projects. seeking an entry-level role at aurus tech pvt ltd where i can contribute to real-world projects strengthen my technical expertise and grow within a professional software environment."
+        ],
+        "education": [
+            "scms school of engineering and technology ernakulam.",
+            "btech computer science engineering.",
+            "8.57 cgpa till semester 6.",
+            "fact udyogamandal school ernakulam.",
+            "plus two .",
+            "91 .",
+            "technical skills soft skills",
+            "python java c teamwork collaboration",
+            "sql critical thinking",
+            "git github faiss empathy active listening",
+            "html css javascript bootstrap quick learning adaptability"
+        ],
+        "experience": [
+            "internship",
+            "intern machine learning artificial intelligence ict academy of kerala",
+            "oct 14 2024 nov 18 2024",
+            "built ml models using supervised learning and worked on data preprocessing model training and evaluation.",
+            "engineered components of an ai ml pipeline gaining exposure to chatbot and generative ai solutions.",
+            "intern web development hostcurator it solutions pvt. ltd. kochi",
+            "june 5 2025 june 21 2025",
+            "designed and developed responsive websites using html css and javascript.",
+            "implemented client requirements into functional ui features ensuring clean and maintainable code."
+        ],
+        "projects": [
+            "cybertrace explainable rag-based chatbot for cyber threat intelligence",
+            "developed an ai-powered chatbot using retrieval-augmented generation rag and faiss for efficient information retrieval. built a modular python backend and streamlit interface for cybersecurity insights with shap-based explainability.",
+            "echohands sign language to text conversion system",
+            "developed and deployed a computer vision-based system to translate sign language gestures into text. integrated real-time hand detection using opencv and mediapipe to enhance accessibility for the deaf and hard-of-hearing community."
+        ],
+        "certifications": [
+            "infosys springboard internet of thing 101 certification",
+            "ibm skillsbuild data analytics training data into decisions using python",
+            "cybersecurity virtual experience deloitte australia forage",
+            "extracurricular",
+            "volunteered as host for the computer science department association day program.",
+            "participated in tinkerhack a women-only hackathon hosted by tinkerhub.",
+            "participated in useless projects - makeathon by tinkerhub"
+        ]
+    },
+    "skills": [
+        {
+            "skill": "python",
+            "confidence": 0.95
+        },
+        {
+            "skill": "java",
+            "confidence": 0.95
+        },
+        {
+            "skill": "sql",
+            "confidence": 0.85
+        },
+        {
+            "skill": "machine learning",
+            "confidence": 0.7
+        }
+    ],
+    "experience": {
+        "experiences": [
+            {
+                "company": "Machine Learning & Artificial Intelligence, ICT Academy of Kerala",
+                "start_year": 2024,
+                "end_year": 2024,
+                "duration_years": 0
+            },
+            {
+                "company": "Web Development, Hostcurator IT Solutions Pvt. Ltd., Kochi",
+                "start_year": 2025,
+                "end_year": 2025,
+                "duration_years": 0
+            }
+        ],
+        "roles": [
+            "intern",
+            "engineer"
+        ],
+        "total_experience": 0,
+        "gaps": [
+            {
+                "gap_years": 1,
+                "between": "2024 - 2025"
+            }
+        ],
+        "overlaps": [],
+        "academic_profile": {
+            "degrees": [
+                "btech"
+            ],
+            "fields_of_study": [
+                "artificial intelligence",
+                "computer science"
+            ],
+            "institutions": [
+                "Motivated Computer Science Engineering student at SCMS School of Engineering and Technology, Kochi, with strong fundamentals in Java, Python, C, SQL and Linux basics. Hands-on experience in web development, AI-based systems, and backend logic through internships and academic projects. Seeking an entry-level role at Aurus Tech Pvt Ltd, where I can contribute to real-world projects, strengthen my technical expertise, and grow within a professional software environment.",
+                "SCMS School of Engineering and Technology, Ernakulam.",
+                "FACT Udyogamandal School, Ernakulam."
+            ],
+            "graduation_years": [
+                "2024",
+                "2025"
+            ],
+            "certifications": [
+                {
+                    "name": "Cybersecurity Virtual Experience \u2013 Deloitte Australia (Forage)",
+                    "category": "cybersecurity"
+                },
+                {
+                    "name": "Infosys springboard Internet Of Thing 101 Certification",
+                    "category": "technology"
+                },
+                {
+                    "name": "Certifications",
+                    "category": "general"
+                }
+            ]
+        },
+        "relevance_score": 35.0
+    }
+}

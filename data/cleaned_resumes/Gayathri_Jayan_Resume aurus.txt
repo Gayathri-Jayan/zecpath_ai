@@ -1,0 +1,48 @@
+gayathri jayan
+kochi kerala india gayathrijayan62@gmail.com 9946238090 github linkedin
+career objective
+motivated computer science engineering student at scms school of engineering and technology kochi with
+strong fundamentals in java python c sql and linux basics. hands-on experience in web development ai-based
+systems and backend logic through internships and academic projects. seeking an entry-level role at aurus tech pvt
+ltd where i can contribute to real-world projects strengthen my technical expertise and grow within a professional
+software environment.
+education
+ scms school of engineering and technology ernakulam.
+btech computer science engineering.
+8.57 cgpa till semester 6.
+ fact udyogamandal school ernakulam.
+plus two .
+91 .
+technical skills soft skills
+ python java c teamwork collaboration
+ sql critical thinking
+ git github faiss empathy active listening
+ html css javascript bootstrap quick learning adaptability
+experience
+internship
+ intern machine learning artificial intelligence ict academy of kerala
+oct 14 2024 nov 18 2024
+built ml models using supervised learning and worked on data preprocessing model training and
+evaluation.
+engineered components of an ai ml pipeline gaining exposure to chatbot and generative ai solutions.
+ intern web development hostcurator it solutions pvt. ltd. kochi
+june 5 2025 june 21 2025
+designed and developed responsive websites using html css and javascript.
+implemented client requirements into functional ui features ensuring clean and maintainable code.
+projects
+ cybertrace explainable rag-based chatbot for cyber threat intelligence
+developed an ai-powered chatbot using retrieval-augmented generation rag and faiss for efficient
+information retrieval. built a modular python backend and streamlit interface for cybersecurity insights
+with shap-based explainability.
+ echohands sign language to text conversion system
+developed and deployed a computer vision-based system to translate sign language gestures into text.
+integrated real-time hand detection using opencv and mediapipe to enhance accessibility for the deaf and
+hard-of-hearing community.
+certifications
+ infosys springboard internet of thing 101 certification
+ ibm skillsbuild data analytics training data into decisions using python
+ cybersecurity virtual experience deloitte australia forage 
+extracurricular
+ volunteered as host for the computer science department association day program.
+ participated in tinkerhack a women-only hackathon hosted by tinkerhub.
+ participated in useless projects - makeathon by tinkerhub

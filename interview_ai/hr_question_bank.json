@@ -1,0 +1,61 @@
+{
+    "fresher": {
+        "technical": [
+            {
+                "question_id": "FT1",
+                "category": "self_introduction",
+                "question": "Can you introduce yourself?"
+            },
+            {
+                "question_id": "FT2",
+                "category": "career_goals",
+                "question": "Why do you want to become a software developer?"
+            },
+            {
+                "question_id": "FT3",
+                "category": "teamwork",
+                "question": "Describe a college project where you worked in a team."
+            }
+        ],
+
+        "non_technical": [
+            {
+                "question_id": "FN1",
+                "category": "strengths",
+                "question": "What are your strengths?"
+            },
+            {
+                "question_id": "FN2",
+                "category": "career_goals",
+                "question": "Where do you see yourself in five years?"
+            }
+        ]
+    },
+
+    "experienced": {
+
+        "technical": [
+
+            {
+                "question_id": "ET1",
+                "category": "career_journey",
+                "question": "Tell me about your professional experience."
+            },
+
+            {
+                "question_id": "ET2",
+                "category": "technical",
+                "question": "Describe your most challenging project."
+            }
+        ],
+
+        "non_technical": [
+
+            {
+                "question_id": "EN1",
+                "category": "leadership",
+                "question": "Describe a situation where you resolved a team conflict."
+            }
+        ]
+    }
+}

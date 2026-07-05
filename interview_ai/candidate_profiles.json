@@ -1,0 +1,33 @@
+[
+    {
+        "candidate_name": "Confident Candidate",
+        "candidate_type": "experienced",
+        "manual_decision": "Strong Hire",
+        "answer": "I have worked on Python and Django projects for five years and successfully delivered enterprise backend systems.",
+        "relevance_score": 90
+    },
+
+    {
+        "candidate_name": "Hesitant Candidate",
+        "candidate_type": "fresher",
+        "manual_decision": "Consider",
+        "answer": "Maybe I know Python, but I am not sure about Django.",
+        "relevance_score": 65
+    },
+
+    {
+        "candidate_name": "Inexperienced Candidate",
+        "candidate_type": "fresher",
+        "manual_decision": "Reject",
+        "answer": "I recently completed my degree and I am still learning programming.",
+        "relevance_score": 40
+    },
+
+    {
+        "candidate_name": "Overqualified Candidate",
+        "candidate_type": "experienced",
+        "manual_decision": "Strong Hire",
+        "answer": "I have more than twelve years of experience leading software engineering teams and designing scalable enterprise applications.",
+        "relevance_score": 95
+    }
+]

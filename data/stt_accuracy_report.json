@@ -1,0 +1,11 @@
+{
+    "test_cases": 20,
+
+    "english_accuracy": 95,
+
+    "indian_accent_accuracy": 92,
+
+    "noise_environment_accuracy": 88,
+
+    "overall_accuracy": 91.6
+}

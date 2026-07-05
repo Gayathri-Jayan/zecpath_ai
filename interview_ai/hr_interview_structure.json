@@ -1,0 +1,20 @@
+{
+    "interview_phases": [
+        {
+            "phase": "Introduction",
+            "description": "Welcome candidate and collect basic information."
+        },
+        {
+            "phase": "Core HR Questions",
+            "description": "Assess communication, strengths, weaknesses and career background."
+        },
+        {
+            "phase": "Role-Based Evaluation",
+            "description": "Ask questions specific to the candidate's role and experience."
+        },
+        {
+            "phase": "Closing",
+            "description": "Confirm availability and thank the candidate."
+        }
+    ]
+}

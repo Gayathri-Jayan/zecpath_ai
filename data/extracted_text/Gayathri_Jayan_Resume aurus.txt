@@ -1,0 +1,48 @@
+GAYATHRI JAYAN
+Kochi, Kerala , India | gayathrijayan62@gmail.com | 9946238090 | Github | Linkedin
+Career Objective
+Motivated Computer Science Engineering student at SCMS School of Engineering and Technology, Kochi, with
+strong fundamentals in Java, Python, C, SQL and Linux basics. Hands-on experience in web development, AI-based
+systems, and backend logic through internships and academic projects. Seeking an entry-level role at Aurus Tech Pvt
+Ltd, where I can contribute to real-world projects, strengthen my technical expertise, and grow within a professional
+software environment.
+Education
+• SCMS School of Engineering and Technology, Ernakulam.
+Btech Computer Science Engineering.
+8.57 CGPA till semester 6.
+• FACT Udyogamandal School, Ernakulam.
+Plus two .
+91%.
+Technical Skills Soft Skills
+• Python, Java, C • Teamwork & Collaboration
+• SQL • Critical Thinking
+• Git, GitHub, FAISS • Empathy & Active Listening
+• HTML, CSS, JavaScript, Bootstrap • Quick Learning & Adaptability
+Experience
+Internship
+• Intern – Machine Learning & Artificial Intelligence, ICT Academy of Kerala
+Oct 14, 2024 – Nov 18, 2024
+Built ML models using supervised learning and worked on data preprocessing, model training, and
+evaluation.
+Engineered components of an AI/ML pipeline, gaining exposure to chatbot and generative AI solutions.
+• Intern – Web Development, Hostcurator IT Solutions Pvt. Ltd., Kochi
+June 5, 2025 – June 21, 2025
+Designed and developed responsive websites using HTML, CSS, and JavaScript.
+Implemented client requirements into functional UI features ensuring clean and maintainable code.
+Projects
+• CyberTrace – Explainable RAG-Based Chatbot for Cyber Threat Intelligence
+Developed an AI-powered chatbot using Retrieval-Augmented Generation (RAG) and FAISS for efficient
+information retrieval. Built a modular Python backend and Streamlit interface for cybersecurity insights
+with SHAP-based explainability.
+• EchoHands – Sign Language to Text Conversion System
+Developed and deployed a computer vision-based system to translate sign language gestures into text.
+Integrated real-time hand detection using OpenCV and MediaPipe to enhance accessibility for the deaf and
+hard-of-hearing community.
+Certifications
+• Infosys springboard Internet Of Thing 101 Certification
+• IBM SkillsBuild Data Analytics: Training Data into Decisions using Python
+• Cybersecurity Virtual Experience – Deloitte Australia (Forage)
+Extracurricular
+• Volunteered as host for the Computer Science Department Association Day program.
+• Participated in TinkerHack – a women-only hackathon hosted by TinkerHub.
+• Participated in Useless Projects - Makeathon by TinkerHub

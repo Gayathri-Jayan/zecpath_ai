@@ -1,0 +1,17 @@
+{
+    "candidate_id": "C123",
+    "question_id": "Q3",
+    "answer": "I have three years experience in Python and Django",
+    "intent": "experience",
+    "entities": {
+        "skills": [
+            "python",
+            "django"
+        ],
+        "experience": 3,
+        "availability": null,
+        "salary": null
+    },
+    "off_topic": false,
+    "vague_answer": false
+}
